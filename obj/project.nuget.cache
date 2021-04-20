@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeeTjhedFPZ8yAtydfoJrGTfdvoFaiRi+MHvwQf077ABcCN41Rc3ekgeq6sy8+Uu1MSrCy1z3ZZ7M5zyMOg1NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.huang61\\Desktop\\Jessica\\WebSKA\\WebSKA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.2\\swashbuckle.aspnetcore.6.1.2.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.2\\swashbuckle.aspnetcore.swagger.6.1.2.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.2\\swashbuckle.aspnetcore.swaggergen.6.1.2.nupkg.sha512",
+    "C:\\Users\\jessica.huang61\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.2\\swashbuckle.aspnetcore.swaggerui.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
